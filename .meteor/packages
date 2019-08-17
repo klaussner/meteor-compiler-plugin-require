@@ -1,0 +1,7 @@
+meteor-base@1.4.0
+static-html
+standard-minifier-css@1.5.3
+standard-minifier-js@2.4.1
+ecmascript@0.12.4
+shell-server@0.4.0
+compiler
